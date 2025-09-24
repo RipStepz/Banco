@@ -1,0 +1,31 @@
+{
+  "name": "aplicacion-banco",
+  "version": "1.0.0",
+  "description": "Se realizaran transferencias",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon rutas.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RipStepz/Banco.git"
+  },
+  "keywords": [
+    "Sesion",
+    "banco",
+    "transferencias"
+  ],
+  "author": "Stepz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RipStepz/Banco/issues"
+  },
+  "homepage": "https://github.com/RipStepz/Banco#readme",
+  "dependencies": {
+    "react": "19.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "3.1.10"
+  }
+}
